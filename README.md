@@ -1,1 +1,0 @@
-# Turnpike-SailPoint-Lookup-Tool
